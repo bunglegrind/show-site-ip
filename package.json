@@ -1,0 +1,15 @@
+{
+  "name": "show-site-ip",
+  "version": "1.0.0",
+  "description": "![Screenshot](https://addons.mozilla.org/user-media/previews/full/229/229056.png)",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "web-ext": "^7.6.2"
+  }
+}
